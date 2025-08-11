@@ -1,7 +1,7 @@
 <h1>Documentación del projecto</h1>
 Este projecto fue realizado cómo muestra final de curso "Lógica de programación"
 
--Documentos
+- Documentos
 1. index.html
 2. app.js
 3. style.css
