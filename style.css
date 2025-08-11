@@ -25,6 +25,7 @@ body {
 
 .main-content {
     display: flex;
+    justify-content: center;
     flex-direction: column;
     height: 100%;
     width: 100%;
@@ -88,8 +89,10 @@ body {
 }
 
 .button-container {
+    display: flex;
     width: 300px;
     justify-content: center;
+    gap: 10px;
 }
 
 /* Estilos de entrada de texto */
